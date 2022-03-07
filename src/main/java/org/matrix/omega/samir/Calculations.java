@@ -11,9 +11,11 @@ public class Calculations {
         int z=i-y;
         System.out.println("Subtraction of two numbers "+ z);
     }
+
     public static void main(String[] args) {
         Calculations cal= new Calculations();
         Scanner  sc = new Scanner(System.in);
+        System.out.println("enter the value of x and y");
         int i= sc.nextInt();
         int y=sc.nextInt();
         cal.addition( i,y);
