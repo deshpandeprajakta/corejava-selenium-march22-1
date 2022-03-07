@@ -7,5 +7,6 @@ public class Power {
         firstNumber=2;
                 power=firstNumber*firstNumber;
         System.out.println("power is "+power);
+        System.out.println("I am power function");
     }
 }
