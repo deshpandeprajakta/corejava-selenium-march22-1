@@ -1,4 +1,4 @@
-package org.matrix.sigma.kadambari;
+/*package org.matrix.sigma.kadambari;
 
 public class DemoSecond {
     public static void main(String[] args)
@@ -11,3 +11,4 @@ public class DemoSecond {
         System.out.println("substraction of two number"-j);
     }
 }
+*/
