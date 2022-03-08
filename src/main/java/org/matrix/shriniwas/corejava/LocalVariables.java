@@ -1,13 +1,13 @@
 package org.matrix.shriniwas.corejava;
 
-public class TestLocalVariables {
+public class LocalVariables {
 
 
     /*{
         int age = 20;
     }*/
 
-    TestLocalVariables() {
+    LocalVariables() {
         int age = 20;
         float ff = 1.0f;
         System.out.println(age);
