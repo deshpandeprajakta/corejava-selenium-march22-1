@@ -1,5 +1,6 @@
 package org.matrix.omega.nayan;
 
+
 class Employee {
 
 
@@ -10,7 +11,7 @@ class Student {
 
 }
 
-public class ClassValue {
+public class ClassValueCheck {
 
     static Employee nn;
     static Student rr;
