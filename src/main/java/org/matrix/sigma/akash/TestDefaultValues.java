@@ -12,7 +12,7 @@ public class TestDefaultValues {
     static short f;
     static String g;
     static Employee ee;
-    
+
     public static void main(String[] args) {
         System.out.println(i);
         System.out.println(a);
