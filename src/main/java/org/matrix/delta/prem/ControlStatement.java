@@ -35,7 +35,7 @@ public class ControlStatement {
                 System.out.println("vowel");
                 break;
             default:
-                System.out.println("consonant");
+                System.out.println("cnsonant");
         }
     }
 }
