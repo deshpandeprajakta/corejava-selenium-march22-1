@@ -14,6 +14,7 @@ public class DefaultValues {
     static String str;
     // static Employee ee;
 
+
     public static void main(String[] args) {
         System.out.println(i);
         System.out.println(b);
