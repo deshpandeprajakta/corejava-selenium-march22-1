@@ -1,5 +1,10 @@
 package org.matrix.sigma.ashish;
 
+import org.matrix.shriniwas.corejava.Employee;
+
+/*class Emplyee{
+
+}*/
 public class TestDefaultValue {
     static int i;
     static byte b;
@@ -7,13 +12,17 @@ public class TestDefaultValue {
     static double d;
     static boolean bb;
     static short s;
+    static String str;
+   // static Employee ee;
 
     public static void main(String[] args) {
-        System.out.println("Integer Size   "   +i);
-        System.out.println("Byte Size   "   +b);
-        System.out.println("Float Size   "   +f);
-        System.out.println("Double Size   "   +d);
-        System.out.println("Boolean Size   "   +bb);
-        System.out.println("Short Size   "   +s);
+        System.out.println("Integer value   "   +i);
+        System.out.println("Byte value   "   +b);
+        System.out.println("Float value   "   +f);
+        System.out.println("Double value   "   +d);
+        System.out.println("Boolean value   "   +bb);
+        System.out.println("Short value   "   +s);
+        System.out.println("String value  " +str);
+      //  System.out.println("Class value  " +ee);
     }
 }
