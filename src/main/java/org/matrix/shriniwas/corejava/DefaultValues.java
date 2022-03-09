@@ -4,7 +4,7 @@ package org.matrix.shriniwas.corejava;
 
 } */
 
-public class TestDefaultValues {
+public class DefaultValues {
     static int i;
     static byte b;
     static short s;
@@ -13,6 +13,7 @@ public class TestDefaultValues {
     static double d;
     static String str;
     // static Employee ee;
+
 
     public static void main(String[] args) {
         System.out.println(i);
