@@ -14,23 +14,25 @@ public class EmployeeStaticVariables {
         System.out.println(empName1);
         System.out.println(EmployeeStaticVariables.companyName);
         System.out.println(Employee.company);
-        System.out.println(companyName); // We can directly use static variables in static and non static methods
+        System.out.println(companyName); //1. We can directly use static variables in static and non static methods
     }
 
     public void getData2() {
         System.out.println(empId2);
         System.out.println(empName2);
-        System.out.println(EmployeeStaticVariables.companyName);
+        System.out.println(EmployeeStaticVariables.companyName);  //2. By using class name
         System.out.println(Employee.company);
     }
 
-    public static void main(String[] args) {
+    static public void main(String[] args) {
         EmployeeStaticVariables emp1 = new EmployeeStaticVariables();
         emp1.getData1();
+        System.out.println(emp1.companyName); // 3. By using object reference
 
         System.out.println("-------------------");
 
         EmployeeStaticVariables emp2 = new EmployeeStaticVariables();
         emp2.getData2();
+
     }
 }
