@@ -13,6 +13,7 @@ public class PassingValueMethod {
     }
 
     public void add(int a,int b){
+        System.out.println("Addition of instance Varible Using this  "+(this.a+this.b));
         System.out.println("Addition of local variable   "+(a+b));
     }
     public void Mult(){
