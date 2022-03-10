@@ -1,4 +1,4 @@
-package org.matrix.shriniwas.corejava;
+package org.matrix.omega.samir.shriniwas.corejava;
 
 public class HelloWorld {
 

@@ -22,6 +22,11 @@ public class StaticVariableConcept {
         System.out.println("Access by company name - " +StaticVariableConcept.s);
         StaticVariableConcept staticVariableConcept = new StaticVariableConcept();
         staticVariableConcept.display();
+        System.out.println("---------------");
+        System.out.println(StaticVariableConcept.s);
+//        System.out.println(staticVariableConcept.s);
+        System.out.println(s);
+
     }
 
 
