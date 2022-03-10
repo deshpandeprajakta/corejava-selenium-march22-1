@@ -6,6 +6,6 @@ public class Employee {
     static String company = "Microsoft";
 
     public static void main(String[] args) {
-
+        System.out.println("");
     }
 }
