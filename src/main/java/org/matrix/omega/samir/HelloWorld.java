@@ -4,11 +4,8 @@ import java.util.Scanner;
 
 class HelloWorld{
 
-    public static int empNumber=1 ;
-
-
     void employeeDetails(){
-        int empsalary=5000;
+        int empNumber=1,empsalary=5000;
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter your number");
         int no =sc.nextInt();

@@ -1,4 +1,4 @@
-package org.matrix.shriniwas.corejava.corejava;
+package org.matrix.shriniwas.corejava;
 
 public class HelloSelenium {
     public static void main(String[] args) {
