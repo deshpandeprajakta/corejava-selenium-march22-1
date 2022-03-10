@@ -8,5 +8,6 @@ public class HelloSelenium {
 
         int a=100;
         System.out.println("value of a: "+a);
+        System.out.println("Added another code");
     }
 }
