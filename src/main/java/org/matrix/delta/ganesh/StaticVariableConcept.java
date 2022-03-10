@@ -23,6 +23,7 @@ public class StaticVariableConcept {
         StaticVariableConcept staticVariableConcept = new StaticVariableConcept();
         staticVariableConcept.display();
         System.out.println(StaticVariableConcept.s);
+        //System.out.println(staticVariableConcept.s);
 
     }
 
