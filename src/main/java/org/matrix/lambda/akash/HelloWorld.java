@@ -1,4 +1,4 @@
-package org.matrix.sigma.lambda.akash;
+package org.matrix.lambda.akash;
 
 public class HelloWorld {
 
