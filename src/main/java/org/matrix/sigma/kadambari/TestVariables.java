@@ -1,7 +1,7 @@
 package org.matrix.sigma.kadambari;
 
 public class TestVariables {
-    int marks = 50; 
+    int marks = 50;
     int id = 10;
 
     public void display() {
