@@ -1,11 +1,9 @@
-package org.matrix.lambda.nisha;
+package org.matrix.omega.neha;
 
 public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Hello, Welcome to Java!");
-        System.out.println("Hello, This is Nisha!");
+        System.out.println("Hello, Selenium");
     }
-                 
-
 }

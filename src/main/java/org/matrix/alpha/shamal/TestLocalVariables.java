@@ -4,7 +4,7 @@ public class TestLocalVariables {
 
     // This is the constructor
     TestLocalVariables(){
-        int i = 10;  // local variable declaration
+        int i = 10;  // local variable
         System.out.println(i);
     }
    public void loacalVariable(){

@@ -1,4 +1,4 @@
-package org.matrix.omega.samir.shriniwas.corejava;
+package org.matrix.shriniwas.corejava;
 
 public class HelloTestng {
 
