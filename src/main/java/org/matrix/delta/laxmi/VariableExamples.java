@@ -15,12 +15,12 @@ public class VariableExamples {
        // System.out.println("Roll No:"+rollNo); // non-static instance variable can't access directly from class level
 
 
-        VariableExamples ve=new VariableExamples();
-        System.out.println(ve.rollNo);
-        System.out.println(ve.studentName);
+        VariableExamples obj=new VariableExamples();
+        System.out.println(obj.rollNo);
+        System.out.println(obj.studentName);
         System.out.println("College Name:"+collegeName); //static instance variable accessed from class level
         System.out.println("College Code:"+collegeCode); //local variable accessed here
-        ve.getData(); //non-static class method accessed here using class object.
+        obj.getData(); //non-static class method accessed here using class object.
 
     }
 }
