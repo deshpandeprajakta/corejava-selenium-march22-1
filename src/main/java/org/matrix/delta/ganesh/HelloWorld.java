@@ -7,6 +7,6 @@ public class HelloWorld {
         System.out.println("Hello, Welcome to Java!");
         System.out.println("Float value: "+f);
         System.out.println("Added code to commit");
-        System.out.println("Added another code to commit");
+        System.out.println("Remote: Ganesh has updated this statement");
     }
 }
