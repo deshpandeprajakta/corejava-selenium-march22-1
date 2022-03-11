@@ -8,5 +8,7 @@ public class HelloWorld {
         System.out.println("Float value: "+f);
         System.out.println("Added code to commit");
         System.out.println("Added another code to commit");
+        System.out.println("Local : Shrinivas has added new line to test merge conflict_1");
+        System.out.println("Local : Shrinivas has added new line to test merge conflict_2");
     }
 }
