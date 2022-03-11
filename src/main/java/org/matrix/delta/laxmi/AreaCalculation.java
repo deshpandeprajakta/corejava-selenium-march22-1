@@ -1,8 +1,9 @@
 package org.matrix.delta.laxmi;
 
 public class AreaCalculation {
-       public static void main(String[] args) {
-        int squareSide = 12;
+    static int squareSide = 25;
+
+    public static void main(String[] args) {
         System.out.println("Area of Square:" + (squareSide * squareSide));
     }
 }
