@@ -1,5 +1,5 @@
 package org.matrix.omega.nayan;
 public class TestOne {
-    String empName;
+     static String empName;
     String empId;
 }
