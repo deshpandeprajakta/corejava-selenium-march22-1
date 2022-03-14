@@ -16,7 +16,7 @@ public class TestInterClassCalling2 {
         System.out.println("Calling of s-Method from diff class");
         System.out.println("direct access by import :\n" +
                 ">>>interClassStatic();");
-        interClassStatic();//can't call directly unless import
+        interClassStatic();//can't call directly unless static import
         System.out.println("Current class s-Method.............end");
     }
 
