@@ -12,7 +12,7 @@ public class StaticVariable {
     public void getData1() {
         System.out.println("EMP ID:" + empId1);
         System.out.println("EMP NAME:" + empName);
-        System.out.println("EMP COMPANY NAME:" + companyName);
+        System.out.println("EMP COMPANY NAME:" + StaticVariable.companyName);
       //  System.out.println("ANOTHER CLASS TestOne EMP:" + TestOne.empName);  // another class
 
     }
@@ -26,6 +26,7 @@ public class StaticVariable {
 
     public static void main(String[] args) {
         StaticVariable emp1 = new StaticVariable();
+        System.out.println(emp1.empId1);
         emp1.getData1();
 
         System.out.println("===================");
