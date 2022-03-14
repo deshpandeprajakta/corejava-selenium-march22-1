@@ -1,4 +1,4 @@
-/*package org.matrix.omega.nayan;
+package org.matrix.omega.nayan;
 
 public class StaticVariable {
 
@@ -36,4 +36,3 @@ public class StaticVariable {
 
     }
 }
-*/
