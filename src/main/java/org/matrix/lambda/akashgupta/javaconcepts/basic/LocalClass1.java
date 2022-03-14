@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts;
+package org.matrix.lambda.akashgupta.javaconcepts.basic;
 
 public class LocalClass1 {
     public static void main(String[] args) {
