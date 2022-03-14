@@ -1,7 +1,7 @@
-package org.matrix.lambda.akashgupta.javaconcepts;
+package org.matrix.lambda.akashgupta.javaconcepts.methods;
 /*   ..........................WITH IMPORT For same package classes.......................*/
 
-import static org.matrix.lambda.akashgupta.javaconcepts.TestLocalMethodCalling.interClassStatic;
+import static org.matrix.lambda.akashgupta.javaconcepts.methods.TestLocalMethodCalling.interClassStatic;
 
 public class TestInterClassCalling2 {
     static TestLocalMethodCalling obj = new TestLocalMethodCalling();
