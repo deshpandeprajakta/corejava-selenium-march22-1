@@ -1,4 +1,4 @@
-package org.matrix.shriniwas.corejava;
+package org.matrix.shriniwas.corejava.methods;
 
 public class TestMethodReturnType {
 
@@ -18,7 +18,7 @@ public class TestMethodReturnType {
 
     public static void main(String[] args) {
         TestMethodReturnType obj = new TestMethodReturnType();
-        int add = obj.addition(10, 20);
+        int add = obj.addition(100, 20);
         int mul = obj.multiplication(10, 20);
         System.out.println(add);
         System.out.println(mul);

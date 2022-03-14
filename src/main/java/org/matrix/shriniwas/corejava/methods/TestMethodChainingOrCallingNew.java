@@ -1,4 +1,6 @@
-package org.matrix.shriniwas.corejava;
+package org.matrix.shriniwas.corejava.methods;
+
+import org.matrix.shriniwas.corejava.Employee;
 
 public class TestMethodChainingOrCallingNew {
     Employee emp = new Employee();

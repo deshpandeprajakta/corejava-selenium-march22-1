@@ -1,4 +1,4 @@
-package org.matrix.shriniwas.corejava;
+package org.matrix.shriniwas.corejava.methods;
 
 public class TestMethodsConcept3 {
 

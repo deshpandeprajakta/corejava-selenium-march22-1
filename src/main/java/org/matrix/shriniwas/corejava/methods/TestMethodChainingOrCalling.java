@@ -1,6 +1,6 @@
-package org.matrix.shriniwas.corejava;
+package org.matrix.shriniwas.corejava.methods;
 
-public class TestMethodChainingOrCallingWithDiffClass {
+public class TestMethodChainingOrCalling {
 
     public void m1() {
         System.out.println("I am in m1 method");
@@ -17,7 +17,7 @@ public class TestMethodChainingOrCallingWithDiffClass {
     }
 
     public static void main(String[] args) {
-        TestMethodChainingOrCallingWithDiffClass obj = new TestMethodChainingOrCallingWithDiffClass();
+        TestMethodChainingOrCalling obj = new TestMethodChainingOrCalling();
         obj.m1();
         // I am in m1 method
         // I am in m2 method

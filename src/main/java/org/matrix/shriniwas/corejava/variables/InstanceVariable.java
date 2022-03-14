@@ -1,4 +1,6 @@
-package org.matrix.shriniwas.corejava;
+package org.matrix.shriniwas.corejava.variables;
+
+import org.matrix.shriniwas.corejava.Employee;
 
 public class InstanceVariable {
 
