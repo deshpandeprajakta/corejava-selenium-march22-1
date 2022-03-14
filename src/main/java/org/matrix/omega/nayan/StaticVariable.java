@@ -13,7 +13,7 @@ public class StaticVariable {
         System.out.println("EMP ID:" + empId1);
         System.out.println("EMP NAME:" + empName);
         System.out.println("EMP COMPANY NAME:" + companyName);
-        System.out.println("ANOTHER CLASS TestOne EMP:" + TestOne.empName);  // another class
+      //  System.out.println("ANOTHER CLASS TestOne EMP:" + TestOne.empName);  // another class
 
     }
 
