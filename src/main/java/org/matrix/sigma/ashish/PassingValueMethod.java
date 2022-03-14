@@ -17,6 +17,6 @@ public class PassingValueMethod {
         System.out.println("Addition of local variable   "+(a+b));
     }
     public void Mult(){
-        System.out.println("Addition of instance variable "+(a+b));
+        System.out.println("Addition of instance variable "+(a*b));
     }
 }
