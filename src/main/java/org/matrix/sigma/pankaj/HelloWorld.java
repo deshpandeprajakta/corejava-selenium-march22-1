@@ -3,9 +3,11 @@ package org.matrix.sigma.pankaj;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        int a = 25;
 
-        System.out.println("age ");
+        System.out.println("Hello, Welcome to first java programme!");
+        System.out.println("hello world");
+
+
 
 
     }
