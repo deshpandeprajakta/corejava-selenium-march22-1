@@ -7,6 +7,8 @@ public class Multiplication
         int a=9;
         int b=10;
         int c=a*b;
+        int d=a+b;
         System.out.println("Multiplication is" +c);
+        System.out.println("addition is" +d);
     }
 }
