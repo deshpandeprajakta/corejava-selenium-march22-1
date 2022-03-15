@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish;
+package org.matrix.sigma.ashish.Method;
 
 public class InstanceVariables {
     int age = 20;

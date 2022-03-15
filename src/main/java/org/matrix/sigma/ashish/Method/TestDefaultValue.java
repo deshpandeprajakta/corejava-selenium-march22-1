@@ -1,6 +1,4 @@
-package org.matrix.sigma.ashish;
-
-import org.matrix.shriniwas.corejava.Employee;
+package org.matrix.sigma.ashish.Method;
 
 /*class Emplyee{
 

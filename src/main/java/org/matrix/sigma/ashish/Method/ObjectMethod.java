@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish;
+package org.matrix.sigma.ashish.Method;
 
 public class ObjectMethod {
     //static variables are deaclaire inside the class but outside of the methods

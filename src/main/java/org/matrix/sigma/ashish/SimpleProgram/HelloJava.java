@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish;
+package org.matrix.sigma.ashish.SimpleProgram;
 
 public class HelloJava {
     public static void main(String[] args) {
