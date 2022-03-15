@@ -6,6 +6,6 @@ public class TestDefaultValues {
 
     public static void main(String[] args) {
         System.out.println(i);
-        System.out.println(str.Length());
+        System.out.println(str.length());
     }
 }
