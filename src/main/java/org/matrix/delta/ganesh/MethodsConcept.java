@@ -2,11 +2,11 @@ package org.matrix.delta.ganesh;
 
 public class MethodsConcept {
 
-    MethodsAccess methodsAccess = new MethodsAccess();
+    MethodsAccess methodsAccess;
 
     public void getMethod(){
-//        methodsAccess = new MethodsAccess();
-        methodsAccess.college();
+        methodsAccess = new MethodsAccess();
+        MethodsAccess.college();
     }
 
     public void getMethod1(){
