@@ -8,11 +8,11 @@ public class MethodChainNew
     public void m1()
     {
         e1=new Employee();
-        e1.getdata();
+        //e1.getdata();
     }
     public void m2()
     {
-        e1.getdata();
+        //e1.getdata();
     }
 
 
@@ -20,7 +20,7 @@ public class MethodChainNew
     {
         MethodChainNew mc1=new MethodChainNew();
         mc1.m1();
-        mc1.m2();
+        //mc1.m2();
 
     }
 }
