@@ -7,5 +7,5 @@ public class TestInstanceVariables {
         System.out.println(age);
     }
 
-    }
+}
 
