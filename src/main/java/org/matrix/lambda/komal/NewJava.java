@@ -1,7 +1,7 @@
 package org.matrix.lambda.komal;
 
-public class HelloWorld {
+public class NewJava {
     public static void main(String[] args) {
-        System.out.println("Hello, Welcome to Java!");
+        System.out.println("New file...");
     }
 }
