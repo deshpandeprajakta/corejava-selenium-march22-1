@@ -13,7 +13,9 @@ public class TestInstanceVariable {
 
     public static void main(String[] args) {
         TestInstanceVariable obj = new TestInstanceVariable();
-        System.out.println();
-    }
+        System.out.println(obj.age);
+        Employee emp=new Employee();
+        System.out.println(emp .empName);
+    System.out.println(emp.empId);}
 }
 
