@@ -1,7 +1,5 @@
 package org.matrix.lambda.akashgupta.javaconcepts.methods;
 
-
-
 public class MethodStaticOverrideError extends TestMethod {
     public void getData() {
         System.out.println("i am in getdata class");
@@ -15,7 +13,6 @@ public class MethodStaticOverrideError extends TestMethod {
         MethodStaticOverrideError obj = new MethodStaticOverrideError();
         obj.getData();
         //obj.getData1();
-
     }
 }
 /* override error cause : because there is a static method in parent which conflicts

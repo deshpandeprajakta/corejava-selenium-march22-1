@@ -28,6 +28,5 @@ public class TestMethod {
         obj.getData();
         TestMethod.getData1();
         obj.getData2(10,20);
-
     }
 }
