@@ -1,5 +1,4 @@
 package org.matrix.delta.rahul;
-
 public class MethodWithRetunType {
     public int getData(int a) {
         return a;
@@ -18,5 +17,6 @@ public class MethodWithRetunType {
         System.out.println("Multiplication is " + m.mul(10, 20));// second way we can call return method.
     }
 }
+
 
 
