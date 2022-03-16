@@ -7,7 +7,7 @@ public class LocalVariable {
         System.out.println(ni);
     }
 
-    LocalVariable {                                     // Constructor
+    LocalVariable() {                                     // Constructor
         float ff = 4.5F;                                // LocalVariable
         System.out.println(ff);
     }
