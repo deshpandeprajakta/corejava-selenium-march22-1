@@ -4,13 +4,14 @@ public class MethodsConcept {
 
     MethodsAccess methodsAccess;
 
+    int multiply;
+
     public void getMethod(){
         methodsAccess = new MethodsAccess();
         MethodsAccess.college();
     }
 
     public void getMethod1(){
-        MethodsAccess methodsAccess = new MethodsAccess();
         methodsAccess.university();
     }
 
@@ -29,7 +30,7 @@ public class MethodsConcept {
     }
 
     public int mul(int a, int b){
-        int multiply = a * b;
+        multiply = a * b;
         return  multiply;
     }
 
