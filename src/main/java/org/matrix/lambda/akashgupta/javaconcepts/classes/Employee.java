@@ -10,6 +10,11 @@ public class Employee{
         System.out.println(empName);
         System.out.println(company);
     }
+
+    public void setData(int empId,String empName){
+        this.empId=empId;
+        this.empName=empName;
+    }
     public void chainConcept(){
         System.out.println("This method is in class Employee ");
     }
