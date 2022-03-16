@@ -1,4 +1,4 @@
-package org.matrix.alpha.kamlesh;
+package org.matrix.alpha.kamlesh.basics;
 
 public class Double {
     public static void Divide (double a, double b) {

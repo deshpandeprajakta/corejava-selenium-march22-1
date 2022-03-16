@@ -1,4 +1,4 @@
-package org.matrix.alpha.kamlesh;
+package org.matrix.alpha.kamlesh.basics;
 
 public class WithoutParameterConcept {
     public void m1() {

@@ -1,4 +1,4 @@
-package org.matrix.alpha.kamlesh;
+package org.matrix.alpha.kamlesh.basics;
 
 import org.matrix.delta.rahul.Employee;
 

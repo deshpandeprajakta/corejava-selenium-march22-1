@@ -1,4 +1,4 @@
-package org.matrix.alpha.kamlesh;
+package org.matrix.alpha.kamlesh.basics;
     public class ReturnType {
         public int addition(int a, int b, int c) {
             int d = a+b+c;    //These an example of return type

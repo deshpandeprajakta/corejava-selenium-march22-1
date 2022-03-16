@@ -1,4 +1,4 @@
-package org.matrix.alpha.kamlesh;
+package org.matrix.alpha.kamlesh.basics;
 
 public class Parameter {
     public static void d1(int a, int b, int c) {
