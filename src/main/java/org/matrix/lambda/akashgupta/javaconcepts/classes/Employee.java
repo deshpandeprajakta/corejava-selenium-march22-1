@@ -10,4 +10,7 @@ public class Employee{
         System.out.println(empName);
         System.out.println(company);
     }
+    public void chainConcept(){
+        System.out.println("This method is in class Employee");
+    }
 }
