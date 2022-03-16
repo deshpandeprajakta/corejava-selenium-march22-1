@@ -15,6 +15,10 @@ public class Employee{
         this.empId=empId;
         this.empName=empName;
     }
+
+    public static Employee createEmpObject(){
+        return new Employee();
+    }
     public void chainConcept(){
         System.out.println("This method is in class Employee ");
     }
