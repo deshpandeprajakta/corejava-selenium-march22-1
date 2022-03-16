@@ -1,4 +1,4 @@
-package org.matrix.alpha.shamal;
+package org.matrix.alpha.shamal.Method;
 
 public class Employee {
 
