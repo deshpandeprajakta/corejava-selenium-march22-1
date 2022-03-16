@@ -11,6 +11,6 @@ public class Employee{
         System.out.println(company);
     }
     public void chainConcept(){
-        System.out.println("This method is in class Employee");
+        System.out.println("This method is in class Employee ");
     }
 }
