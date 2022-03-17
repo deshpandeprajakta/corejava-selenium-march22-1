@@ -3,22 +3,22 @@ package org.matrix.sigma.pankaj;
 public class TestEmployeeStaticVariable {
     int empId1 = 101;
     String empname1 = "Pankaj";
-    String companyname1 = "TCS";
+    String companyname = "TCS";
 
     int empId2 = 102;
     String empname2 = "Pankaj1";
-    String companyname2 = "TCS";
+
 
     public void getdata() {
         System.out.println(empId1);
         System.out.println(empname1);
-        System.out.println(companyname1);
+        System.out.println(companyname);
     }
 
     public void getdata1() {
         System.out.println(empId2);
         System.out.println(empname2);
-        System.out.println(companyname2);
+        System.out.println(companyname);
     }
 
     public static void main(String[] args) {
@@ -30,3 +30,4 @@ public class TestEmployeeStaticVariable {
     }
 
 }
+  // some part in remaining
