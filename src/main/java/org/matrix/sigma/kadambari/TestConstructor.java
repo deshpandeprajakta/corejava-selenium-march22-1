@@ -12,6 +12,7 @@ public class TestConstructor {
         System.out.println("x: " + a);
         System.out.println("y: " + b);
         System.out.println("parameterize constructer ");
+        System.out.println("updated");
     }
 
     public static void main(String[] args) {
