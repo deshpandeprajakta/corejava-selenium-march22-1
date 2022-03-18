@@ -1,5 +1,5 @@
-/*package org.matrix.omega.nayan;
-import org.matrix.omega.nayan.TestOne;
+package org.matrix.omega.nayan;
+
 public class TestTwo {
 
      int year = 2022;
@@ -19,4 +19,3 @@ public class TestTwo {
     }
 
 }
-*/
