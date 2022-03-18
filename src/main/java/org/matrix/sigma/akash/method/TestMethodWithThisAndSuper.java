@@ -1,6 +1,6 @@
-package org.matrix.sigma.akash;
+package org.matrix.sigma.akash.method;
 
-public class TestMethodWithThisAndSuper extends TestMethod{
+public class TestMethodWithThisAndSuper extends TestMethod {
     public void getData() {
 
         System.out.println("i am in getdata class");

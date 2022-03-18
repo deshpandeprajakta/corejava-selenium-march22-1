@@ -1,4 +1,4 @@
-package org.matrix.sigma.akash;
+package org.matrix.sigma.akash.constructor;
 /* Constructor - it is a special method that is used to initialise objects and instance variable.
 The Constructor is called when an object of class is created.
 Note - 1. If there is no constructor in the class, the compiler automatically created default constructor.

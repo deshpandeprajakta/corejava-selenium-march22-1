@@ -1,4 +1,4 @@
-package org.matrix.sigma.akash;
+package org.matrix.sigma.akash.constructor;
 
 public class TestConstructorChaining {
         public TestConstructorChaining(){
