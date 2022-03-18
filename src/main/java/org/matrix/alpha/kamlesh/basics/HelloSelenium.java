@@ -1,4 +1,4 @@
-package org.matrix.alpha.kamlesh;
+package org.matrix.alpha.kamlesh.basics;
 
 public class HelloSelenium {
     public static void main(String[] args) {
