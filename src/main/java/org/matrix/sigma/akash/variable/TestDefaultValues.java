@@ -1,9 +1,5 @@
-<<<<<<< HEAD:src/main/java/org/matrix/sigma/akash/variable/TestDefaultValues.java
 package org.matrix.sigma.akash.variable;
-=======
-package org.matrix.sigma.akash;
 
->>>>>>> a3a4f9388730ee30b2ed3f7868e5f8816451a2f0:src/main/java/org/matrix/sigma/akash/TestDefaultValues.java
 /* Note - To get the by default values of variable must be static and static variable assigned
 outside the main method. */
 class Employee {
