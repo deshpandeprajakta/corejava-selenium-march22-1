@@ -5,7 +5,6 @@ public class ThisAndSuperExamples extends JavaPractice {
     public void display() {
         System.out.println("I am in display method");
     }
-
     public void display2() {
        this.display();
        super.display();
