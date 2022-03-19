@@ -1,5 +1,4 @@
 package org.matrix.omega.nayan;
-
 public class TestTwo {
 
      int year = 2022;
