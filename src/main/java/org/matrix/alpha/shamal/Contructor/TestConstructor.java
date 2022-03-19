@@ -2,7 +2,9 @@ package org.matrix.alpha.shamal.Contructor;
 
 public class TestConstructor {
 
-    int empId ; String empName; String cmpnName;
+    int empId ;
+    String empName;
+    String cmpnName;
 
     public TestConstructor(){
 
@@ -11,15 +13,15 @@ public class TestConstructor {
 
     public TestConstructor(int empId , String empName , String cmpnName){
 
-        empId = empId;
-        empName = empName;
-        cmpnName = cmpnName ;
+        this.empId = empId; // this class to current class instance variables
+        this.empName = empName;
+        this.cmpnName = cmpnName ;
 
     }
 
     public TestConstructor(String empName){
 
-        empName = empName;
+        this.empName = empName;
     }
 
     public static void main(String[] args) {
