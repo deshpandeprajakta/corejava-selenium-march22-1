@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.SimpleProgram;
+package org.matrix.sigma.ashish.Method;
 
 public class Testpull {
     public static void main(String[] args) {
