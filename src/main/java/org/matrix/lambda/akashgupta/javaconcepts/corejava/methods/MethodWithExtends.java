@@ -1,6 +1,6 @@
-package org.matrix.lambda.akashgupta.javaconcepts.methods;
+package org.matrix.lambda.akashgupta.javaconcepts.corejava.methods;
 
-import org.matrix.lambda.akashgupta.javaconcepts.classes.Employee;
+import org.matrix.lambda.akashgupta.javaconcepts.corejava.classes.Employee;
 
 public class MethodWithExtends extends Employee {
 

@@ -1,7 +1,5 @@
-package org.matrix.lambda.akashgupta.javaconcepts.methods;
+package org.matrix.lambda.akashgupta.javaconcepts.Inheritance;
 /*   ..........................WITH IMPORT For same package classes.......................*/
-
-import static org.matrix.lambda.akashgupta.javaconcepts.methods.TestLocalMethodCalling.interClassStatic;
 
 public class TestInterClassCalling2 {
     static TestLocalMethodCalling obj = new TestLocalMethodCalling();
@@ -16,7 +14,7 @@ public class TestInterClassCalling2 {
         System.out.println("Calling of s-Method from diff class");
         System.out.println("direct access by import :\n" +
                 ">>>interClassStatic();");
-        interClassStatic();//can't call directly unless static import
+        TestLocalMethodCalling.interClassStatic();//can't call directly unless static import
         System.out.println("Current class s-Method.............end");
     }
 
@@ -26,7 +24,7 @@ public class TestInterClassCalling2 {
         System.out.println("Calling static-Method from different class directly\n" +
                 "BUT u have import the package\n"
                 + ">>>interClassStatic();");
-        interClassStatic();
+        TestLocalMethodCalling.interClassStatic();
         obj.currentClassIMethod();
         currentClassSMethod();
         System.out.println(".......Main");
@@ -42,7 +40,7 @@ public class TestInterClassCalling2 {
         System.out.println("Calling of s-Method from diff class");
         System.out.println("direct access by import :\n" +
                 ">>>interClassStatic();");
-        interClassStatic();             //can call directly unless import
+        TestLocalMethodCalling.interClassStatic();             //can call directly unless import
         System.out.println("Current class i-Method.............end\n");
     }
 }

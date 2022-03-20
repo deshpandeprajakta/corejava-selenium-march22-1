@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts.methods;
+package org.matrix.lambda.akashgupta.javaconcepts.corejava.methods;
 
 public class TestMethod {
     int a = 100;//instance variable

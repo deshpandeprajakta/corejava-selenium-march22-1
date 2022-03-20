@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts.methods;
+package org.matrix.lambda.akashgupta.javaconcepts.corejava.methods;
 
 public class ConstructorInheritance extends ConstructorTypes{
     int num;

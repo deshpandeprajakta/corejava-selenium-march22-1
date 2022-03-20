@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts.classes;
+package org.matrix.lambda.akashgupta.javaconcepts.corejava.classes;
 
 public class Employee {
     public int empId = 1;

@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts.methods;
+package org.matrix.lambda.akashgupta.javaconcepts.corejava.methods;
 /* .........Same method name creates conflicts with same class
 .......can resolve by only different type of argument
  .........same arguments are also not allowed

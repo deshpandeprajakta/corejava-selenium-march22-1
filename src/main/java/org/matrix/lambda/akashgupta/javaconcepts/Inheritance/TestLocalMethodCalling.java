@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts.methods;
+package org.matrix.lambda.akashgupta.javaconcepts.Inheritance;
 
 public class TestLocalMethodCalling {
     TestLocalMethodCalling() {
