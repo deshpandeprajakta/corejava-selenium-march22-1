@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts.Inheritance;
+package org.matrix.lambda.akashgupta.javaconcepts.corejava.methods;
 /*   ..........................WITH IMPORT For same package classes.......................*/
 
 public class TestInterClassCalling2 {
