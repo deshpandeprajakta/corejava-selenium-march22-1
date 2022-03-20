@@ -1,4 +1,4 @@
-package org.matrix.delta.rahul.Blacks;
+package org.matrix.delta.rahul.block;
 
 import org.matrix.delta.rahul.ExampleClass2;
 

@@ -1,4 +1,4 @@
-package org.matrix.delta.rahul.Blacks;
+package org.matrix.delta.rahul.block;
 
 public class StaticBlocks {
     //static  blocks are run before object creation, but it runs one time in class if you created more ref variable too.
