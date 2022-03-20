@@ -1,11 +1,11 @@
 package org.matrix.lambda.akashgupta.javaconcepts.corejava.methods;
 
 public class ConstructorTypes {
-    int num;
-    String name;
-    static String companyName;
+    public int num;
+    public String name;
+    public static String companyName;
 
-   ConstructorTypes(){   // default access type is default("package-private")
+   public ConstructorTypes(){   // default access type is default("package-private")
         System.out.println("Object was created withdefault value by JVM Initialization" +
                 " \nNo-args type  :general used to display message");
     }

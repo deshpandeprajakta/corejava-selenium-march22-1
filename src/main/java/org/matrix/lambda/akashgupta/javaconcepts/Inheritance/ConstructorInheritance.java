@@ -1,6 +1,8 @@
-package org.matrix.lambda.akashgupta.javaconcepts.corejava.methods;
+package org.matrix.lambda.akashgupta.javaconcepts.Inheritance;
 
-public class ConstructorInheritance extends ConstructorTypes{
+import org.matrix.lambda.akashgupta.javaconcepts.corejava.methods.ConstructorTypes;
+
+public class ConstructorInheritance extends ConstructorTypes {
     int num;
     String name;
     static String companyName;
