@@ -2,7 +2,7 @@ package org.matrix.delta.ganesh.Methods;
 
 public class School {
 
-    public static Student getStudentData(){
+    public static Student getStudentData() {
         return new Student();
 
     }
