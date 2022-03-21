@@ -5,5 +5,8 @@ public class SimpleMethod {
         System.out.println("I am in simple");
         System.out.println("I new statement added");
         int a;
+
+
+        // program was demo for murge conflict
     }
 }
