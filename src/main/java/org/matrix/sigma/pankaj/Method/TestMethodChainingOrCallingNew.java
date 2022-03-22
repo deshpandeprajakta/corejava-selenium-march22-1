@@ -1,4 +1,6 @@
-package org.matrix.sigma.pankaj;
+package org.matrix.sigma.pankaj.Method;
+
+import org.matrix.sigma.pankaj.Employee;
 
 public class TestMethodChainingOrCallingNew {
     Employee emp;
