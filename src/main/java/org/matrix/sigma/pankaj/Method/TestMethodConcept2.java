@@ -1,4 +1,4 @@
-package org.matrix.sigma.pankaj;
+package org.matrix.sigma.pankaj.Method;
 
 public class TestMethodConcept2 {
     int a = 101;
