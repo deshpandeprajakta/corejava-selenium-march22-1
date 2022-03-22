@@ -1,4 +1,4 @@
-package org.matrix.alpha.shamal.Contructor;
+package org.matrix.alpha.shamal.contructor;
 
 public class ContructorCalling {
 
@@ -29,7 +29,7 @@ public class ContructorCalling {
             // call display method via reference variable
             obj.display();
 
-            new ContructorCalling().display(); // Direct Method calling without object
+            new ContructorCalling().display(); // Direct method calling without object
         }
 
 }

@@ -1,4 +1,4 @@
-package org.matrix.alpha.shamal.Method;
+package org.matrix.alpha.shamal.method;
 
 public class Student {
     int rollNo = 21; int prnNo = 102310;
@@ -22,6 +22,6 @@ public class Student {
     }
 
     public void m1(){
-        System.out.println("This is the Student class :: m1 Method");
+        System.out.println("This is the Student class :: m1 method");
     }
 }

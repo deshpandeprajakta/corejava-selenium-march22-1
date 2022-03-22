@@ -1,4 +1,4 @@
-package org.matrix.alpha.shamal.Method;
+package org.matrix.alpha.shamal.method;
 
 public class MethodChaniningOrCalling {
     public void m1() {

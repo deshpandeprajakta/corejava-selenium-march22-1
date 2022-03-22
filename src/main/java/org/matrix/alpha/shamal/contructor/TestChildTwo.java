@@ -1,4 +1,4 @@
-package org.matrix.alpha.shamal.Contructor;
+package org.matrix.alpha.shamal.contructor;
 
 public class TestChildTwo extends TestSuper {
     // child class

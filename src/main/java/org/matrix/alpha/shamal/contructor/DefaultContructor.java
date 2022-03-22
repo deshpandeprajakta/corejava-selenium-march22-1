@@ -1,4 +1,4 @@
-package org.matrix.alpha.shamal.Contructor;
+package org.matrix.alpha.shamal.contructor;
 
 public class DefaultContructor {
     int a;
