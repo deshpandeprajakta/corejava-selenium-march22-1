@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.Method;
+package org.matrix.sigma.ashish.Constructor;
 
 public class TestChildConstructor extends TestParentConstructor {
     TestChildConstructor(){
