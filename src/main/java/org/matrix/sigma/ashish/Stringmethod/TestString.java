@@ -32,16 +32,14 @@ public class TestString{
         obj.ConcatMethod();//String is immutable
         System.out.println("---------------------------------------");
         obj.AppendMethod();
-
         System.out.println("Compare varaible memory adress----------");
 
         System.out.println(str==str1);//true
-
         System.out.println("it shows True because in Stack Constant Pool");
         System.out.println("-----------------------------------------------------------");
         System.out.println(str2==str3);//false
         System.out.println("it shows False because in Heap Memory ");
-        
+
         System.out.println("------------------------------------------");
 
         System.out.println(str.equals(str1));//true
