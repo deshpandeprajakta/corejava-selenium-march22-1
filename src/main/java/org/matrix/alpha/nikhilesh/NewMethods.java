@@ -18,6 +18,9 @@ public class NewMethods {
         space();
         System.out.println("This is Non-Static Method");
     }
+    public void add1(){
+        System.out.println(a+b);
+    }
     public static void add(int c, int d){
         System.out.println(c+d);
         NewMethods.space();
@@ -37,6 +40,7 @@ public static void space() {
         nm.display(10,20); //Parameter Initialized By Using Obj Ref
         add(25,50);//Parameter Initialized By the Directly
         nm.space();
+        nm.add1();
     }
 
 }
