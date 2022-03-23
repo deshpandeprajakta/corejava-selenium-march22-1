@@ -1,4 +1,4 @@
-package org.matrix.sigma.pankaj;
+package org.matrix.sigma.pankaj.Variable;
 
 public class TestEmployeeStaticVariable {
     int empId1 = 101;

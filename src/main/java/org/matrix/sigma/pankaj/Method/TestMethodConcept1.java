@@ -1,4 +1,4 @@
-package org.matrix.sigma.pankaj;
+package org.matrix.sigma.pankaj.Method;
 
 public class TestMethodConcept1 {
     //this is method signature or method declaration and inside parameter also came under signature
