@@ -1,4 +1,4 @@
-package org.matrix.sigma.kadambari;
+package org.matrix.sigma.kadambari.practice;
 
 public class TestConstructor {
     int x, y; // instance variable
