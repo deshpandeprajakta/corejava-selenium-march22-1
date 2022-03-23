@@ -6,9 +6,9 @@ public class EmpData {
     double empPercent;
 
     public EmpData() {
-        //this.empName = empName;
-        //this.empId = empId;
-        //this.empPercent = empPercent;
+      //  this.empName = empName;
+      //  this.empId = empId;
+      //  this.empPercent = empPercent;
 
         System.out.println("Emp name " + empName);  //This is also an parameterized example with deafult value
         System.out.println("empId " + empId);
