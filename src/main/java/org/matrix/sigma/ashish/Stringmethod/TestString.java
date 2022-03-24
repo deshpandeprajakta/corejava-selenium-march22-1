@@ -38,6 +38,8 @@ public class TestString{
         System.out.println("it shows True because in Stack Constant Pool");
         System.out.println("-----------------------------------------------------------");
         System.out.println(str2==str3);//false
+
+
         System.out.println("it shows False because in Heap Memory ");
 
         System.out.println("------------------------------------------");
