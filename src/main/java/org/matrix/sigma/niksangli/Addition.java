@@ -8,5 +8,6 @@ public class Addition {
         int d = a + b;
         System.out.println("Addition of number is" + c);
         System.out.println("subtraction is of number is" + d);
+        System.out.println("Multiplication:" +a*b);
     }
 }
