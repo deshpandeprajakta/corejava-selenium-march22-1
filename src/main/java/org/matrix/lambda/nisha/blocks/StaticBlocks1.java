@@ -22,3 +22,15 @@ public class StaticBlocks1 {
 }
 
 
+
+/*
+
+Execution Sequence:
+Static Block -> Constructor -> Constructor -> Constructor
+If we have instance block in the same class
+Static Block -> Instance Block -> Constructor -> Instance -> Constructor -> Instance Constructor
+
+ */
+
+
+
