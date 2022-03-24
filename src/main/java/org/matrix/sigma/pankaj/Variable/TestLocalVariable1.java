@@ -7,6 +7,11 @@ public class TestLocalVariable1 {
         int a = 50;
         System.out.println(a);
     }
+    public String p1(){
+        String str = "PANKAJ";
+        System.out.println(str);
+        return str;
+    }
 
 }
 
