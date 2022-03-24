@@ -16,6 +16,15 @@ public class InstanceBlocks {
     {
         System.out.println("I'm in Instance Block 2");
     }
+
+    public InstanceBlocks(int i) {
+        System.out.println("In 1-args constructor");
+    }
+
+    public InstanceBlocks(int i, String myCar) {
+        System.out.println("In 2-args constructor");
+    }
+
 }
 
 
