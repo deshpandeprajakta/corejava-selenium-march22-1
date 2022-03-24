@@ -17,4 +17,10 @@ public class StaticBlocks2 {
         System.out.println("In Constructor");               // Constructor
     }
 
+    public static void main(String[] args) {
+        StaticBlocks2 obj = new StaticBlocks2();
+        System.out.println("--------------------------");
+        StaticBlocks2 obj1 = new StaticBlocks2();
+    }
+
 }
