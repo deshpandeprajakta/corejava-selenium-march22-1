@@ -1,4 +1,4 @@
-package org.matrix.delta.prem.Methods;
+package org.matrix.delta.prem.methods;
 
 public class MethodsInJava {
     public void m1() {

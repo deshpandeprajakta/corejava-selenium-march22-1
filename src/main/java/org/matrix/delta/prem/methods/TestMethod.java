@@ -1,4 +1,4 @@
-package org.matrix.delta.prem.Methods;
+package org.matrix.delta.prem.methods;
 
 public class TestMethod {
     public void addition(int a, int b) {
