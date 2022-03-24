@@ -24,3 +24,17 @@ public class StaticBlocks2 {
     }
 
 }
+
+
+
+/*
+
+Execution Sequence ===>
+StaticBlock1 class
+Static Block1 -> Constructor -> Constructor -> Constructor
+
+StaticBlock2 class
+If we have instance block in the same class
+Static Block -> Instance Block -> Constructor -> Instance -> Constructor -> Instance Constructor
+
+ */
