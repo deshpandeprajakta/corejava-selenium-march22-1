@@ -13,6 +13,12 @@ public class StaticBlocks1 {
     static {
         System.out.println("Im in Static Block 2");
     }
+
+    public static void main(String[] args) {
+        new StaticBlocks1();
+        new StaticBlocks1();
+        new StaticBlocks1();
+    }
 }
 
 
