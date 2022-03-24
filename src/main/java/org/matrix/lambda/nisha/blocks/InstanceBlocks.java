@@ -25,6 +25,19 @@ public class InstanceBlocks {
         System.out.println("In 2-args constructor");
     }
 
-}
+    public static void main(String[] args) {
+        InstanceBlocks myobj = new InstanceBlocks();                // object 1
+
+        System.out.println("---------------------------------");
+
+        InstanceBlocks myobj1 = new InstanceBlocks();               // object 2
+        System.out.println("---------------------------------");
+
+        InstanceBlocks myobj2 = new InstanceBlocks(58);               // object 2
+        System.out.println("---------------------------------");
+
+        InstanceBlocks myobj3 = new InstanceBlocks(6,"Nisha");               // object 2
+
+    }
 
 
