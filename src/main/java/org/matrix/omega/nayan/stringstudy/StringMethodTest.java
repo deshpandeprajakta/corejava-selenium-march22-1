@@ -1,4 +1,4 @@
-package org.matrix.omega.nayan.StringStudy;
+package org.matrix.omega.nayan.stringstudy;
 
 public class StringMethodTest {
 
