@@ -1,4 +1,4 @@
-package org.matrix.lambda.akasht;
+package org.matrix.lambda.akasht.corejava;
 
 public class HelloJava {
 
