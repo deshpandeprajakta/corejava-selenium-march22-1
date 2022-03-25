@@ -1,6 +1,6 @@
 package org.matrix.alpha.nikhilesh;
 
-public class Emplyee {
+public class Emplyee{
     int empId1 = 101;
     String empName1 ="Nikhil";
 
