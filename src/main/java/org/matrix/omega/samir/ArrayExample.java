@@ -11,9 +11,9 @@ public class ArrayExample {
             a[i] = sc.nextInt();
         }*/
         for (int i = 0; i < 4; i++) {
-            System.out.println("1");
+            System.out.print("2");
             for (int j = 0; j < i; j++) {
-                System.out.println("2");
+                System.out.print("2");
 
             }
             System.out.println("\n");
