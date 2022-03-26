@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts.Inheritance;
+package org.matrix.lambda.akashgupta.javaconcepts.oopsconcepts.Inheritance;
 
 public class Multilevel extends SingleLevel {    //............SingleLevel extends Employee
 

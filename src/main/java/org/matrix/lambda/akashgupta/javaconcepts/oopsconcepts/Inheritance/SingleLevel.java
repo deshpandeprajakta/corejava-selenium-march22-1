@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts.Inheritance;
+package org.matrix.lambda.akashgupta.javaconcepts.oopsconcepts.Inheritance;
 
 import org.matrix.lambda.akashgupta.javaconcepts.corejava.classes.Employee;
 

@@ -1,7 +1,7 @@
-package org.matrix.lambda.akashgupta.javaconcepts.Inheritance;
+package org.matrix.lambda.akashgupta.javaconcepts.oopsconcepts.Inheritance;
 
 public class Hierarchical {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Cat c = new Cat();
         c.meow();
         c.eat();
