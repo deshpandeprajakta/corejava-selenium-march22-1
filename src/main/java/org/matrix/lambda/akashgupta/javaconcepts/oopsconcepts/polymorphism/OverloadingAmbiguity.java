@@ -1,6 +1,6 @@
 package org.matrix.lambda.akashgupta.javaconcepts.oopsconcepts.polymorphism;
 
-public class OverrideAmbiguity {
+public class OverloadingAmbiguity {
     public void add(int a, float b) {
         System.out.println(a + b);
     }
@@ -23,10 +23,10 @@ public class OverrideAmbiguity {
 
 
     public static void main(String[] args) {
-        OverrideAmbiguity obj = new OverrideAmbiguity();
-        // obj.add(10,10);          //::override Ambiguity
-        //obj.add(10.0,10);        //:: override Ambiguity
+        OverloadingAmbiguity obj = new OverloadingAmbiguity();
+        // obj.add(10,10);          //::overloading Ambiguity
+        //obj.add(10.0,10);        //:: overloading Ambiguity
         obj.add('a', 10);       // matching method so there is no Ambiguity
-        //obj.add(10,97);       //:: override Ambiguity due to internal promotion
+        //obj.add(10,97);       //:: overloading Ambiguity due to internal promotion
     }
 }

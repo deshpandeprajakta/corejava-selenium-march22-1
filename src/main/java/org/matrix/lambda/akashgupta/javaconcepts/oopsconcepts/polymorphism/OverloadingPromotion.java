@@ -1,6 +1,6 @@
 package org.matrix.lambda.akashgupta.javaconcepts.oopsconcepts.polymorphism;
 
-public class OverridePromotion {
+public class OverloadingPromotion {
     public void add(float a, int b) {
         System.out.println(a + b);
     }
@@ -17,7 +17,7 @@ public class OverridePromotion {
         int b='a';
         char letter = 97;           //compile time promotion/typecasting??????????
         System.out.println(b+" is ascii value of :"+letter);
-        OverridePromotion obj = new OverridePromotion();
+        OverloadingPromotion obj = new OverloadingPromotion();
         obj.add(10,10);   // compile time promotion of variable a (10 int) to float
         obj.add1('a',10);  // compile time promotion (char ---> int)
         //obj.add2(97,10);   // down promotion is not allowed i.e(int ---> char)

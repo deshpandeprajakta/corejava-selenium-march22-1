@@ -1,6 +1,6 @@
 package org.matrix.lambda.akashgupta.javaconcepts.oopsconcepts.polymorphism;
 
-public class MethodOverride {
+public class MethodOverloading {
 
     public void m1(){
         System.out.println("This is public m1 ");
@@ -31,7 +31,7 @@ public class MethodOverride {
     }
 
     public static void main(String[] args) {
-        MethodOverride obj =new MethodOverride();
+        MethodOverloading obj =new MethodOverloading();
         obj.m1();
         obj.m1(10);
         obj.m1(true);
@@ -41,7 +41,7 @@ public class MethodOverride {
     }
 }
 /* ...............................................................
-Method Overriding can also be referred as CompileTime Polymorphism
+Method Overloading can also be referred as CompileTime Polymorphism
 Override rules:
 *It should be in same class
 *Signature should be same (Type/access modifier is not taken under consideration) but different parameter
