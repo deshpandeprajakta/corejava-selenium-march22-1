@@ -15,10 +15,12 @@ public class child extends parent {
         System.out.println("I am in Child Class");
         System.out.println("Age of Grandparent Class in function  "+gage);
         System.out.println("Age of parent class in function  "+age);
+
         System.out.println("----------------------------------------------");
         System.out.println("Accesing same variable names from parent and child");
         System.out.println("Acces parent variable using super  "+super.a);
         System.out.println("access child variable using this  "+this.a);
+
         System.out.println("-------------------------------------------------");
         System.out.println("accesing parent class method using super");
         super.m1();
