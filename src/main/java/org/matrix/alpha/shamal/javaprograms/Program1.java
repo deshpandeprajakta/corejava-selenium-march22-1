@@ -39,7 +39,7 @@ public class Program1 {
         {
             System.out.print(str.charAt(i));
         }
-
+        System.out.println("/n");
         System.out.println("Explanation of this function");
 
         /* 1. First, convert String to character array by using the built in Java String class method toCharArray().
