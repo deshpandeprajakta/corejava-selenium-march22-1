@@ -4,13 +4,14 @@ import org.matrix.sigma.pankaj.Employee;
 
 public class TestMethodsWithSuperAndThis extends Employee {
 
-    public void s1() {
+    public void s1()
+    {
         System.out.println("i am in TestMethodsWithSuperAndThis :: s1 method ");
     }
 
     public void s2() {
         this.s1();
-        super.s1();
+      //  super.s1();
 
 
     }
