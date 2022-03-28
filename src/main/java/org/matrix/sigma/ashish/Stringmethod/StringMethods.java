@@ -46,8 +46,47 @@ public class StringMethods {
 
         System.out.println("Concat Method      " + str4.concat("Thopate"));
         System.out.println("Contains Method Ashish   " + str5.contains("ish"));
+        System.out.println("Starts with : "+str4.startsWith("ASH"));
+        System.out.println("Ends With   "+str4.endsWith("ISH"));
+
+
+        String str6="AC";
+        String str7="AB";
+
+        String str9="Ajit Thopate";
+
+        System.out.println("It check the Aski value compare to  "+str6.compareTo(str7));
+        System.out.println("Check empty or not  "+str5.isEmpty());
+
+        String [] arr=str9.split(" ");
+        System.out.println("Find length of array "+arr.length);
+
+        for(int i=0;i<arr.length;i++)
+        {
+            System.out.println("print array  "+arr[i]);
+        }
+
+        for (String str10:arr) {
+            System.out.println("using foeach loop  "+str10);
+        }
+
+
+        char [] ch={'a','s','h','i','s','h'};
+
+        for (char c : ch) {
+            System.out.println("Cahracter foreach print    "+c);
+        }
+
+        char [] ch1=str9.toCharArray();
+        for (char ch2: ch1) {
+            System.out.println("toCharArray Method   "+ch2);
+        }
+
+        }
+
+
 
 
     }
 
-}
+
