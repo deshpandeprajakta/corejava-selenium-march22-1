@@ -39,5 +39,7 @@ public class child extends parent {
         System.out.println("-----------------------------------------------");
        // new parent();
         System.out.println("Extra Line");
+        System.out.println("Extra Line1");
+
     }
 }
