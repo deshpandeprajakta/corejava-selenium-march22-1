@@ -16,7 +16,13 @@ public class InstanceVariableNew {
 
     }
 
-    public static void main(String[] args) {
+    public static void main() {
+
         InstanceVariableNew obj = new InstanceVariableNew();
+        System.out.println(obj.a);
+        System.out.println(obj.f);
+        System.out.println(obj.b);
+        System.out.println(obj.l);
+        System.out.println(obj.sum);
     }
 }
