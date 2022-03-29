@@ -33,7 +33,7 @@ public class Testoverloading {
     public static void main(String[] args) {
 
         Testoverloading obj=new Testoverloading();
-        obj.add(10,20);
+          obj.add(10,20);
         System.out.println("-----------------------------------------");
         obj.add(30,40,50);
         System.out.println("-----------------------------------------");
