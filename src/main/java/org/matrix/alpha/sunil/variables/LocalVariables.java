@@ -1,4 +1,4 @@
-package org.matrix.alpha.sunil;
+package org.matrix.alpha.sunil.variables;
 
 public class LocalVariables {
     public static void main(String[] args) {

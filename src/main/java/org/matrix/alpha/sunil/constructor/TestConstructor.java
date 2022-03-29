@@ -1,4 +1,4 @@
-package org.matrix.alpha.sunil;
+package org.matrix.alpha.sunil.constructor;
 
 public class TestConstructor {
     int empId;

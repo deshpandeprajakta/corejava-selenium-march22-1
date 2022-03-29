@@ -1,4 +1,4 @@
-package org.matrix.alpha.sunil;
+package org.matrix.alpha.sunil.FirstJavaProgram;
 
 public class HelloJava {
     public static void main(String[] args) {
