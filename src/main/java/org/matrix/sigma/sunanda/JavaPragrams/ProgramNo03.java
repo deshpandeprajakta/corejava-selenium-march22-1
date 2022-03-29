@@ -9,7 +9,6 @@ public class ProgramNo03 {
         {
             if (str.charAt(i) == ' ' && str.charAt(i + 1) != ' ') {
                 count++;
-
             }
         }
         System.out.println("No of words in a String: " + count);
