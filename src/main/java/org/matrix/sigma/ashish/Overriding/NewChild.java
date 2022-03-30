@@ -9,7 +9,7 @@ public class NewChild extends NewParent {
 
     public static void main(String[] args) {
         NewParent p=new NewChild();
-        p.m1();//diff return type-covariant returntype
+              p.m1();//diff return type-covariant returntype
 
     }
 }
