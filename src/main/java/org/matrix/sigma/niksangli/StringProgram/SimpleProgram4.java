@@ -29,15 +29,25 @@ public class SimpleProgram4 {
             System.out.println(s3);
         }
 
-        System.out.println("----- Using For each loop for Character array -----");
+        System.out.println("----- Using For each loop for Character array  to String-----");
         char[] ch = {'N', 'i', 'k', 'h', 'i', 'l'};
-        String s5=String.copyValueOf(ch);
+       // String s5=String.copyValueOf(ch);
        // String s6;
         //System.out.println(s5);
-        System.out.println(ch.toString());
+        //System.out.println(ch.toString());
+        for(char d1:ch)  // for (datatype var : arrayname)
+        {
+            System.out.print(d1);
 
-      //  String s7=new String(ch);
-    //    System.out.println(s7);
+        }
+        System.out.println("----- Using valueoff  String-----");
+
+        String s7=String.valueOf(ch);
+        System.out.println(s7);
+
+
+
+
 
 
 
