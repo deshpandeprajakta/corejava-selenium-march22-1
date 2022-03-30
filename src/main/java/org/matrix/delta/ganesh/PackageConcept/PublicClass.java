@@ -1,6 +1,6 @@
 package org.matrix.delta.ganesh.PackageConcept;
 
-public class PublicClass extends ProtectedClass {
+public class PublicClass  {
 
     public void publicMethod(){
         System.out.println("In public method");
@@ -10,7 +10,7 @@ public class PublicClass extends ProtectedClass {
         PublicClass publicClass = new PublicClass();
         publicClass.publicMethod();
 //        publicClass.privateMethod();
-        publicClass.protectedMethod();
+//        publicClass.protectedMethod();
 
     }
 }
