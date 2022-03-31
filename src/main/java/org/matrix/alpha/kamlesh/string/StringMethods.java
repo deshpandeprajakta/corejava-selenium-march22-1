@@ -18,7 +18,7 @@ public class StringMethods {
         System.out.println("Index Of : " + str.indexOf('a'));
         System.out.println("Index of : " +str.indexOf('l'));
         System.out.println("Index of : " +str.lastIndexOf('m'));
-        System.out.println("Substring " +str.substring(0,));
+        System.out.println("Substring " +str.substring(0,1));
 
     }
 }
