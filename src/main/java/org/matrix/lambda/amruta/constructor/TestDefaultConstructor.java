@@ -1,4 +1,4 @@
-package org.matrix.lambda.amruta;
+package org.matrix.lambda.amruta.constructor;
 
 public class TestDefaultConstructor {
     int a;

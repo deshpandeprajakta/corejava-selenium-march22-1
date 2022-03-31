@@ -1,4 +1,4 @@
-package org.matrix.lambda.amruta;
+package org.matrix.lambda.amruta.methods;
 
 public class TestMethods {
     int a=100;
