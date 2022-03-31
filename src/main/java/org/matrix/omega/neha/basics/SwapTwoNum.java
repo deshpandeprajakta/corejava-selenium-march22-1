@@ -1,4 +1,4 @@
-package org.matrix.omega.neha;
+package org.matrix.omega.neha.basics;
 
 public class SwapTwoNum {
     public static void main(String[] args) {
