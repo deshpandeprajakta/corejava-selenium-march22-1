@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.CoreJava.Polimorphisam;
+package org.matrix.sigma.ashish.Polimorphisam;
 
 public class ConstructorOverloading {
 

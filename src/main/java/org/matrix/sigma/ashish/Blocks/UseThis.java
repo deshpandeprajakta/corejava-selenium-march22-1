@@ -1,6 +1,6 @@
-package org.matrix.sigma.ashish.CoreJava.Blocks;
+package org.matrix.sigma.ashish.Blocks;
 
-import org.matrix.sigma.ashish.CoreJava.Method.Employee;
+import org.matrix.sigma.ashish.Method.Employee;
 
 public class UseThis {
     Employee ee=new Employee();

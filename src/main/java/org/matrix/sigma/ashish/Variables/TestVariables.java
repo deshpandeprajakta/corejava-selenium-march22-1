@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.CoreJava.Variables;
+package org.matrix.sigma.ashish.Variables;
 
 public class TestVariables {
 

@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.CoreJava.Stringmethod;
+package org.matrix.sigma.ashish.Stringmethod;
 
 public class StringMethods {
     public static void main(String[] args) {

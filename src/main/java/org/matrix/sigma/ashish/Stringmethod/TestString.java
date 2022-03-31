@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.CoreJava.Stringmethod;
+package org.matrix.sigma.ashish.Stringmethod;
 
 public class TestString{
 

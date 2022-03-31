@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.CoreJava.Blocks;
+package org.matrix.sigma.ashish.Blocks;
 
 public class TestStaticBlock {
 

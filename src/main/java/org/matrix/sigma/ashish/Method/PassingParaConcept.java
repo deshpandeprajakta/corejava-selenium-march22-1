@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.CoreJava.Method;
+package org.matrix.sigma.ashish.Method;
 
 public class PassingParaConcept {
     public void m1(int a, String str) {

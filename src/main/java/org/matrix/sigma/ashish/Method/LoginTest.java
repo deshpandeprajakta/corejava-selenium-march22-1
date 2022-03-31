@@ -1,6 +1,6 @@
-package org.matrix.sigma.ashish.CoreJava.Method;
+package org.matrix.sigma.ashish.Method;
 
-import org.matrix.sigma.ashish.CoreJava.Blocks.TestPage;
+import org.matrix.sigma.ashish.Blocks.TestPage;
 
 public class LoginTest {
     public static void main(String[] args) {
