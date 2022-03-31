@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.Inheritance;
+package org.matrix.sigma.ashish.AccessSpecifier.Inheritance;
 
 public class GrandParents {
     int gage=70;

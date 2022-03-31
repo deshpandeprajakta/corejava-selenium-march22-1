@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.Blocks;
+package org.matrix.sigma.ashish.CoreJava.Blocks;
 
 public class UseThisSuper extends TestThisSuper {
     public void m1() {

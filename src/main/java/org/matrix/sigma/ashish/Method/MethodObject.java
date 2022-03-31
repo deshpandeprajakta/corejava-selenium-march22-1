@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.Method;
+package org.matrix.sigma.ashish.CoreJava.Method;
 
 public class MethodObject {
     ObjectMethod obj = new ObjectMethod();

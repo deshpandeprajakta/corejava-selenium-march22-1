@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.SimpleProgram;
+package org.matrix.sigma.ashish.CoreJava.SimpleProgram;
 
 public class HelloWorld {
 

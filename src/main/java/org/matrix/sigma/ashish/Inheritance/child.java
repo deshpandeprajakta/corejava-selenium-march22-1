@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.Inheritance;
+package org.matrix.sigma.ashish.AccessSpecifier.Inheritance;
 
 public class child extends parent {
     int a =70;

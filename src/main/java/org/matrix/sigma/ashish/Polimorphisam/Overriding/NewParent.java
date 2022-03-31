@@ -1,4 +1,4 @@
-package org.matrix.sigma.ashish.Polimorphisam.Overriding;
+package org.matrix.sigma.ashish.CoreJava.Polimorphisam.Overriding;
 
 public class NewParent {
 
