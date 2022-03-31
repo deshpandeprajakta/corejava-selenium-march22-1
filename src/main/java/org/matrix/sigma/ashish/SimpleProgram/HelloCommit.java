@@ -6,6 +6,6 @@ public class HelloCommit {
         System.out.println("My age is " + age);
         System.out.println("Hi , I am Ashish");
 
-        
+
     }
 }
