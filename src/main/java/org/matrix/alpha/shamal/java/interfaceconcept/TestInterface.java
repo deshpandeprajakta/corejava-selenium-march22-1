@@ -6,6 +6,11 @@ public class TestInterface {
 
         Drawable1 d = new Circle();
         d.draw();
+        d.getArea();
+
+        Drawable1 r = new Rectangle();
+        r.getArea();
+        r.draw();
 
     }
 }
