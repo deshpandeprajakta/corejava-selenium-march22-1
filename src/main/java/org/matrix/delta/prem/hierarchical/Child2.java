@@ -1,4 +1,4 @@
-package org.matrix.delta.prem.Hierarchical;
+package org.matrix.delta.prem.hierarchical;
 
 public class Child2 extends Parent {
     public void m3(){
