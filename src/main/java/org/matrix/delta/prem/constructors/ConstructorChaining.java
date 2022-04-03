@@ -2,7 +2,7 @@ package org.matrix.delta.prem.constructors;
 
 public class ConstructorChaining {
     //constructor overloading example
-
+    //chaining in same class
     public ConstructorChaining(){
         this(15); // this must be first statement otherwise it will show error/warning
         System.out.println("i m on args constructor");
