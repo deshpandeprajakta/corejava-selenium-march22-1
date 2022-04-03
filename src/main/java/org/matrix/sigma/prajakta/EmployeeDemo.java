@@ -3,7 +3,7 @@ package org.matrix.sigma.prajakta;
 public class EmployeeDemo {
 
     int empId=1;
-    String empName="Prajata";
+    String empName="Prajakta";
     String empCompany="Cognizant";
 
     void getData(){
