@@ -2,9 +2,18 @@ package org.matrix.alpha.kamlesh.basics;
 
 public class Switch {
 
+/*    public Sting student_name;// +
+    protected int roll_number; //#
+    private String section;//-
+*/
+    public void display(){
+
+    }
+
     public static void main(String[] args) {
 
-        int i = 20;
+        int i=0;
+        char ch;
         switch (i){
 
             case 0:
