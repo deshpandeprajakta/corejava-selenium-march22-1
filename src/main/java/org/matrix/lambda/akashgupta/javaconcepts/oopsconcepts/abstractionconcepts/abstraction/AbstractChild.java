@@ -1,4 +1,4 @@
-package org.matrix.lambda.akashgupta.javaconcepts.oopsconcepts.abstractionconcepts;
+package org.matrix.lambda.akashgupta.javaconcepts.oopsconcepts.abstractionconcepts.abstraction;
 
 public abstract class AbstractChild extends AbstractParent {
 
