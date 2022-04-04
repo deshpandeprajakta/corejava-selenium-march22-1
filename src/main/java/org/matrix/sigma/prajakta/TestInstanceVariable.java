@@ -13,8 +13,7 @@ public class TestInstanceVariable {
     }
     public static void main(String[] args) {
         TestInstanceVariable obj=new TestInstanceVariable();
+        // But not fetch in static method.
         obj.getInstance();
-
-        //But not fetch in static method.
     }
 }
