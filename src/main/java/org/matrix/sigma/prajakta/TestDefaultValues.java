@@ -16,6 +16,7 @@ public class TestDefaultValues {
     static byte bb;
     static Employee emp;
 
+
     public static void main(String[] args) {
         System.out.println("Data types default values:");
         System.out.println(i);
