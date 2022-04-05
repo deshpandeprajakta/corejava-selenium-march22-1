@@ -1,19 +1,21 @@
 package org.matrix.sigma.prajakta;
 
 public class JavaComments {
-    public static void main(String[] args) {
 
-        // This is single line comment.
+    // This is single line comment.
+
         /* This is multiline comment.
          --------
          --------
          */
 
-        /**
-         * this is documented comment
-         *
-         *
-         */
+    /**
+     * this is documented comment
+     *
+     */
+
+    public static void main(String[] args) {
+        System.out.println("This is comments in java");
 
     }
 }
