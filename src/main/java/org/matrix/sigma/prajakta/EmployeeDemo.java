@@ -13,7 +13,7 @@ public class EmployeeDemo {
     }
     public static void main(String[] args) {
         EmployeeDemo obj=new EmployeeDemo();
-        obj.getData();
+        obj.getData();   // This is method calling.
 
     }
 }
