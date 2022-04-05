@@ -10,7 +10,7 @@ public class LocalVariable {
 
     void getVariable(){
         int i=10;
-        System.out.println(i);
+        System.out.println("This is method local variable"+i);
     }
     public static void main(String[] args) {
         // System.out.println(i);   // we can not acess local variable in static method.
